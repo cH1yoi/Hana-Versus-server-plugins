@@ -1,0 +1,7 @@
+"CustomJoinMessages"
+{
+	"STEAM_1:0:526785170"
+	{
+		"playerwasnamed"		"杨楠"
+	}
+}

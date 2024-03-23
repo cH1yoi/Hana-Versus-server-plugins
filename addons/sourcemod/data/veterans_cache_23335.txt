@@ -1,0 +1,48 @@
+"VeteranPlayersCache"
+{
+	"23605125"
+	{
+		"LastUpdate"		"1711162508"
+		"TotalTime"		"138328"
+		"Last2WeeksTime"		"7341"
+		"isGroupMember"		"0"
+		"ServerPlayTime"		"0"
+		"realplaytime"		"69667"
+	}
+	"407611121"
+	{
+		"LastUpdate"		"1711166704"
+		"TotalTime"		"22013"
+		"Last2WeeksTime"		"1213"
+		"isGroupMember"		"0"
+		"ServerPlayTime"		"0"
+		"realplaytime"		"15418"
+	}
+	"362190389"
+	{
+		"LastUpdate"		"1711166903"
+		"TotalTime"		"0"
+		"Last2WeeksTime"		"0"
+		"isGroupMember"		"0"
+		"ServerPlayTime"		"0"
+		"realplaytime"		"0"
+	}
+	"1298184828"
+	{
+		"LastUpdate"		"1711167695"
+		"TotalTime"		"0"
+		"Last2WeeksTime"		"0"
+		"isGroupMember"		"0"
+		"ServerPlayTime"		"0"
+		"realplaytime"		"0"
+	}
+	"1636702319"
+	{
+		"LastUpdate"		"1711168944"
+		"TotalTime"		"0"
+		"Last2WeeksTime"		"0"
+		"isGroupMember"		"0"
+		"ServerPlayTime"		"0"
+		"realplaytime"		"0"
+	}
+}
