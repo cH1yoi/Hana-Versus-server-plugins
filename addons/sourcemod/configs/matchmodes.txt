@@ -2,6 +2,10 @@
 {
 	"4V4 Configs"
 	{
+		"zmcustom"
+		{
+			"name" "Zonemod Custom 2.8.9"
+		}
 		"zonemod"
 		{
 			"name" "ZoneMod 2.8.9"
