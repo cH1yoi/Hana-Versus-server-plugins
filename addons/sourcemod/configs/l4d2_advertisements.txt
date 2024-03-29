@@ -1,0 +1,39 @@
+"Advertisements"
+{
+	"1"
+	{
+		"type"	"S"
+		"text"	"{GREEN}❀ /matach 加载竞赛配置{LIGHTGREEN}/rmatch 卸载竞赛配置"
+	}
+	"2"
+	{
+		"type"	"S"
+		"text"	"{GREEN}对待萌新一定要友爱{TEAM}(往死里打！)"
+	}
+	"3"
+	{
+		"type"	"S"
+		"text"	"{GREEN} ❀ 近防止失联{LIGHTGREEN}请加Steam组及群"
+	}
+	"4"
+	{
+		"type"	"S"
+		"text"	"{GREEN} ❀ 投票菜单{LIGHTGREEN} /vote"
+	}
+	"5"
+	{
+		"type"	"S"
+		"text"	"{green}❀ 好!开摆! 寄~寄~ 寄摸~寄摸~ 米骑诺~ 寄摸西~"
+	}
+	"6"
+	{
+		"type"	"S"
+		"text"	"{green}❀ 你知道我要说什么~"
+	}
+	"7"
+	{
+		"type"	"S"
+		"text"	"❀ 喷子配合马格南,酷!"
+	}
+	
+}
